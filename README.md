@@ -12,13 +12,13 @@ This dataset appeared in a 1997 paper titled Sparse Spatial Autoregressions by P
 
 The information was collected on the variables using all the block groups in California from the 1990 Census. In this sample a block group on average includes 1425.5 individuals living in a geographically compact area. Naturally, the geographical area included varies inversely with the population density. Distances were computed among the centroids of each block group as measured in latitude and longitude and all the districts reporting zero entries for the independent and dependent variables were excluded. The final data contained 20,640 observations on 9 variables. The dependent variable is ln(median house value). The other variables are as follows:
 
-longitude: A measure of how far west a house is; a higher value is farther west
-latitude: A measure of how far north a house is; a higher value is farther north
-housingMedianAge: Median age of a house within a block; a lower number is a newer building
-totalRooms: Total number of rooms within a block
-totalBedrooms: Total number of bedrooms within a block
-population: Total number of people residing within a block
-households: Total number of households, a group of people residing within a home unit, for a block
-medianIncome: Median income for households within a block of houses (measured in tens of thousands of US Dollars)
-medianHouseValue: Median house value for households within a block (measured in US Dollars)
-oceanProximity: Location of the house w.r.t ocean/sea
+     -longitude: A measure of how far west a house is; a higher value is farther west
+     -latitude: A measure of how far north a house is; a higher value is farther north  
+     -housingMedianAge: Median age of a house within a block; a lower number is a newer building
+     -totalRooms: Total number of rooms within a block
+     -totalBedrooms: Total number of bedrooms within a block
+     -population: Total number of people residing within a block
+     -households: Total number of households, a group of people residing within a home unit, for a block
+     -medianIncome: Median income for households within a block of houses (measured in tens of thousands of US Dollars)
+     -medianHouseValue: Median house value for households within a block (measured in US Dollars)  
+     -oceanProximity: Location of the house w.r.t ocean/sea
