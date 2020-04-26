@@ -1,6 +1,6 @@
 # California-Housing-Prices-1990 
 
-This model is based on the dataset california housing prices (1990) from the book "Hands-on Machine Learning with Scikit-Learn and Tensorflow" 
+This end to end model is based on the dataset california housing prices (1990) from the book "Hands-on Machine Learning with Scikit-Learn and Tensorflow" 
 
 ## Business Problem:
 To predict the prices of houses in Californa (1990) based on their different specifications and locations
